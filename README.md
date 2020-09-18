@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+APP DESCRIPTION
+Nirdar app for safety - Our project includes a safety website which automatically takes your location on a single tap and then we have to select the type of helpline like police ,ambulance, etc you need. after that without any further delay nearest helper will reach you at your location for your help.
+So, basically with two taps,i.e, in 2 seconds helping hand will be there for you.
+It doesn't need much of details and during danger one do not have much of time due to stress. So, in two clicks one can call out for help as the app directly link with google gmail.
