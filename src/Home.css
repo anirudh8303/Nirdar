@@ -1,0 +1,39 @@
+.home {
+    height: 60vh;
+}
+.logo {
+    object-fit: contain;
+    height: 80vh;
+    width: 500px;
+}
+.btun {
+    margin-top:50px;
+    display: flex;
+    justify-content: center;
+}
+.btun > button {
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 20px;
+    background-color: #DE6834;
+    color: white;
+   }
+.btun >button:hover {
+    background-color:white;
+    color: #DE6834 ;
+}
+.home_loc {
+    margin-top:10px;
+    margin-bottom: 20px;
+}
+.home_loc > center >button{
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 20px;
+    background-color: #DE6834;
+    color: white;
+} 
+.home_loc > center > button:hover {
+    background-color:white;
+    color: #DE6834 ;
+}

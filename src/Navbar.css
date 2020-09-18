@@ -1,0 +1,45 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    background-color:#DE6834;
+    height: 70px;
+    align-items: center;
+    transition-delay:100ms;
+}
+a:hover {
+    color: green ;
+    padding-bottom:10px ;
+    border-bottom:1px solid green ;
+    transform:scale(1.02);
+
+}
+a {
+    text-decoration:none !important;
+    color: white;
+
+}
+.nav_left {
+    display: flex;
+}
+.nav_home {
+    display: flex;
+}
+.nav_portfolio {
+    display: flex;
+}
+.nav_certificates {
+    display: flex;
+}
+.nav_contact {
+    display: flex;
+    justify-content: space-between;
+}
+@media screen and (max-width: 650px) {
+    .navbar{
+        display: flex;
+        flex-direction: column;
+        height:180px;
+        overflow: hidden;
+    }
+}
